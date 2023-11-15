@@ -7,7 +7,7 @@ in the captured_packets directory within your project.
 
 The directory will be auto-created while capturing the packets. 
 
-You can set your own numbers at your own risk.
+You can set your own numbers at your own risk. I have tried 5000 with no issues. 
 
 Afterward you can just fire up WireShark and have a look at the gathered packets. 
 
