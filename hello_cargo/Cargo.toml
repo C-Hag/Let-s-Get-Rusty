@@ -1,0 +1,14 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = "0.13"
+minimp3 = "0.7"
+minimp3-sys = "0.7"
+egui = "0.12"
+biquad = "0.4"
+
